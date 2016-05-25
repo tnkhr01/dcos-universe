@@ -4,8 +4,8 @@
       "currentVersion":"0.7.0",
       "description":"DCOS implementation of the Mesos-Elasticsearch framework",
       "framework":true,
-      "name":"elasticsearch-custom",
-      "selected":false,
+      "name":"elasticsearch-nakahara-custom",
+      "selected":true,
       "tags":[
         "elastic",
         "monitoring",

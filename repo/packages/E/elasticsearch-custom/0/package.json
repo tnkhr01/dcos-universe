@@ -1,6 +1,6 @@
 {
   "packagingVersion": "2.0",
-  "name": "elasticsearch-custom",
+  "name": "elasticsearch-nakahara-custom",
   "version": "0.7.0",
   "tags": ["elastic", "monitoring", "debug"],
   "framework": true,
@@ -15,5 +15,6 @@
       "name": "Apache License Version 2.0",
       "url": "https://raw.githubusercontent.com/mesos/elasticsearch/master/LICENSE"
     }
-  ]
+  ],
+  "selected": true
 }
